@@ -1,0 +1,13 @@
+{
+    "name": "wasis/anime-main",
+    "authors": [
+        {
+            "name": "Wasis Wicaksono",
+            "email": "wasis@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "firebase/php-jwt": "^6.9"
+    }
+}
